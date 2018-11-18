@@ -1,6 +1,5 @@
 import getpass
 import os
-from collections import OrderedDict
 
 accounts = {
     '0001-1': {
